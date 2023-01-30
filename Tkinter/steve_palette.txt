@@ -1,0 +1,5 @@
+@:brown
+#:bisque
+$:white
+%:purple
+&:tan
